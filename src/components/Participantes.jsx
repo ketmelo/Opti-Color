@@ -22,7 +22,7 @@ export default function Participantes() {
       <div className='absolute text-white top-56 flex flex-wrap flex-col xl:flex-row justify-center gap-8 flex flex-wrap justify-center lg:mt-20'>
 
 
-        <div className='w-44 h-80 bg-fundo-bg rounded-2xl flex flex-col font-aoboshi items-center relative mt-20 a '>
+        <div className='w-44 h-80 bg-fundo-bg rounded-2xl rounded-t-[30px] flex flex-col font-aoboshi items-center relative mt-20 a '>
           <div>
             <img src={mariana} alt="" className='-top-12 relative' />
             <h1 className='text-xl text-bold text-center font-bold'>Mariana Ribeiro</h1>
@@ -36,11 +36,11 @@ export default function Participantes() {
 
 
 
-        <div className='w-44 h-80 bg-fundo-bg rounded-2xl flex flex-col font-aoboshi items-center relative mt-20 xl:ml-10 xl:ml-20'>
+        <div className='w-44 h-80 bg-fundo-bg rounded-2xl rounded-t-[30px] flex flex-col font-aoboshi items-center relative mt-20 xl:ml-10 xl:ml-20'>
           <div>
             <img src={ketlyn} alt="" className='-top-12 relative' />
             <h1 className='text-xl text-bold text-center font-bold'>Ketlyn Melo</h1>
-            <h2 className='text-base text-center  font-bold '>17 anos</h2>
+            <h2 className='text-base text-center  font-bold '>18 anos</h2>
             <div className='flex mt-5 items-center justify-center'>
             <a href="https://www.linkedin.com/in/ketlyn-de-melo-73a0a0221/-ab48912b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src={linkedin} alt="" className='h-7 '/></a>
             <a href="https://www.instagram.com/melooketlyn/"><img src={instagram} alt="" className='h-7 ml-5' /></a>
@@ -49,7 +49,7 @@ export default function Participantes() {
         </div>
 
 
-        <div className='w-44 h-80 bg-fundo-bg rounded-2xl flex flex-col font-aoboshi items-center relative mt-20 xl:ml-20'>
+        <div className='w-44 h-80 bg-fundo-bg rounded-2xl rounded-t-[30px] flex flex-col font-aoboshi items-center relative mt-20 xl:ml-20'>
           <div>
             <img src={nelson} alt="" className='-top-12 relative' />
             <h1 className='text-xl text-bold text-center font-bold'>Jõao Nelson</h1>
@@ -62,7 +62,7 @@ export default function Participantes() {
         </div>
 
 
-        <div className='w-44 h-80 bg-fundo-bg rounded-2xl flex flex-col items-center font-aoboshi relative mt-20  xl:ml-20'>
+        <div className='w-44 h-80 bg-fundo-bg rounded-2xl rounded-t-[30px] flex flex-col items-center font-aoboshi relative mt-20  xl:ml-20'>
           <div>
             <img src={rafaella} alt="" className='-top-12 relative' />
             <h1 className='text-xl text-center font-bold'>Rafaella Silveira</h1>

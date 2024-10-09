@@ -14,7 +14,7 @@ export default function Header() {
       <div className="flex items-center w-full md:w-auto">
         <img src={Logo} alt="Logo" className="h-8 relative md:h-10 xl:h-14 " />
       </div>
-      <button onClick={handleMenu} className="block md:hidden text-white duration-700 absolute right-4 top-2">
+      <button onClick={handleMenu} className="block md:hidden text-white absolute right-4 top-2">
         <List size={32} /> 
       </button>
       <nav className={`w-full md:w-auto ${abrirMenu ? 'block' : 'hidden'} md:flex md:space-x-2.5 mt-4 md:mt-2 absolute mt-8 mb-10`}>
