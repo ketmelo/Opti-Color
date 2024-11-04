@@ -3,8 +3,10 @@ import {createBrowserRouter , RouterProvider  } from "react-router-dom";
 import Home from './components/Home' 
 import Ref from './components/Ref';
 import Guia from './components/Guia';
+import Game from './components/Game';
 import Participantes from './components/Participantes';
 import Materiais from './components/Materiais';
+import Tcc from './components/Tcc';
 
   const router = createBrowserRouter([
     {
@@ -27,8 +29,15 @@ import Materiais from './components/Materiais';
       path:"/Materiais",
       element: <Materiais/>,
     },
-
-
+    {
+      path:"/Game",
+      element: <Game/>,
+    },
+    {
+      path:"/Tcc",
+      element: <Tcc/>,
+    },
+    
   ])
 
   function App() {

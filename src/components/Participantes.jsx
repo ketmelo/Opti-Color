@@ -15,7 +15,7 @@ export default function Participantes() {
         className="relative rounded-lg w-[300px] h-[1950px] top-10 xl:w-[1600px] xl:h-[800px] bg-verdinho/40 xl:bg-gradient-to-r xl:from-azulEscuro/60 xl:via-verdinho/100 xl:to-azulzao/60 mb-24 lg:h-screen lg:w-screen">
         <div className="absolute inset-0 bg-black xl:bg-opacity-80 bg-opacity-60 rounded-lg"></div>
         <Header></Header>
-        <h1 className='text-white text-center relative mt-10 font-aoboshi text-xl lg:text-5xl'>PARTICIPANTES</h1>
+        <h1 className='text-white text-center relative mt-16 mb-5 font-aoboshi text-xl lg:text-5xl'>PARTICIPANTES</h1>
       </div>
 
 
