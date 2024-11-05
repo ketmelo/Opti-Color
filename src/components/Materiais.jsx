@@ -70,7 +70,7 @@ export default function Materiais() {
         <div>
           <img src={OLED} alt="" className='-top-5 relative' />
           <h1 className='mt-4'>OLED</h1>
-          <h2>R$ 23,00</h2>
+          <h2>R$ 30,00</h2>
         </div>
       </div>
 
@@ -88,7 +88,7 @@ export default function Materiais() {
         <div>
           <img src={button} alt="" className='-top-12 relative' />
           <h1>BUTTON</h1>
-          <h2>R$ 24,90</h2>
+          <h2>R$ 2,00</h2>
         </div>
       </div>
 
@@ -97,7 +97,7 @@ export default function Materiais() {
         <div>
           <img src={resistores} alt="" className='-top-12 relative' />
           <h1>RESISTORES</h1>
-          <h2>R$ 24,00</h2>
+          <h2>R$ 5,00</h2>
         </div>
       </div>
     </div>
