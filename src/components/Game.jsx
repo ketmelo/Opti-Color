@@ -11,15 +11,7 @@ export default function Game() {
          <h1 className='text-white text-center relative mt-16 font-aoboshi text-xl lg:text-5xl'>GAME</h1>
 
          <div className="relative w-60 mt-20 pb-[50.25%]  lg:w-[760px] lg:h-[450px] lg:ml-[400px] lg:pb-[315px] ml-8">
-  <iframe
-    src="https://www.youtube.com/embed/bIr6EZslGV8?si=9EwJhE6EI04BbStk"
-    title="YouTube video player"
-    frameBorder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerPolicy="strict-origin-when-cross-origin"
-    allowFullScreen
-    className="absolute top-0 left-0 w-full h-full"
-  ></iframe>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/SFq_NKxChuY?si=eAsZr6_xm3WIs0wm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
     </div>
     </div>
