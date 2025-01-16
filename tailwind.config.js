@@ -21,7 +21,8 @@ module.exports = {
       'azul': '#041c34',
       'azulzao': '#091116',
       'bgverde' : '#1C2825',
-      'fundo': '#2e6f24'
+      'fundo': '#2e6f24',
+      'text': '#CBCBCB'
       }
     },
 

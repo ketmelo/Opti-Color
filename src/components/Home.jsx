@@ -17,7 +17,7 @@ export default function Home() {
       >
          <div className="absolute inset-0 bg-black xl:bg-opacity-80 bg-opacity-60 rounded-lg"></div>
          <Header></Header>
-         <h1 className='relative text-white text-right font-aoboshi w-44 ml-24   lg:ml-[670px] mt-6 xl:text-5xl lg:mt-72 lg:mb-96 lg:ml-[300px] xl:ml-[1000px] lg:w-[460px] lg:h-44'>OPTI-COLOR: O FUTURO PERTENCE ÀQUELES QUE ABRAÇAM A MUDANÇA.</h1>
+         <h1 className='relative text-white text-right font-aoboshi w-44 ml-24   lg:ml-[500px] mt-6 xl:text-4xl lg:mt-52 lg:mb-96  lg:w-[460px] lg:h-44'>OPTI-COLOR: O FUTURO PERTENCE ÀQUELES QUE ABRAÇAM A MUDANÇA.</h1>
     </div>
        
 
@@ -50,6 +50,7 @@ export default function Home() {
               </h1>
             </div>
           </div>
+          <h1 className='text-text text-sm lg:text-base'>Ketlyn de Melo© 2024. Todos os Direitos Reservados</h1>
 
 
 
