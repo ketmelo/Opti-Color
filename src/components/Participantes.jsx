@@ -12,7 +12,7 @@ export default function Participantes() {
   return (
     <div className='min-h-screen flex flex-col justify-center items-center bg-fundo-bg'>
       <div
-        className="relative rounded-lg w-[300px] h-[1950px] top-10 md:w-[600px] md:h-[600px] lg:w-[1200px] lg:h-[700px] bg-verdinho/60 xl:bg-gradient-to-r xl:from-azulEscuro/60 xl:via-verdinho/100 xl:to-azulzao/60 mb-24 lg:h-screen lg:w-screen">
+        className="relative rounded-lg w-[300px] h-[1950px] top-10  lg:w-[1200px] lg:h-[700px] bg-verdinho/60 xl:bg-gradient-to-r xl:from-azulEscuro/100 xl:via-verdinho/100 xl:to-azulzao/60 mb-24">
         <div className="absolute inset-0 bg-black xl:bg-opacity-80 bg-opacity-60 rounded-lg"></div>
         <Header></Header>
         <h1 className='text-white text-center relative mt-16 mb-5 font-aoboshi text-xl lg:text-5xl'>PARTICIPANTES</h1>
