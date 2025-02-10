@@ -18,7 +18,7 @@ export default function Game() {
          
          </div>
     </div>
-    <h1 className='text-text text-sm lg:text-base'>Ketlyn de Melo© 2024. Todos os Direitos Reservados</h1>
+    <h1 className='text-text text-sm lg:text-base'>Opti-Color© 2024. Todos os Direitos Reservados</h1>
     </div>
   )
 }
